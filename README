@@ -1,1 +1,10 @@
+# Fuzzy-Logic-for-Early-warnings-on-COVID-19-patients
 
+The code shown here are complementary parts of an assistencial robot for COVID-19 patients.
+
+## EWS
+There is a Python file wich is used to save sensors data from the patient as well as an Early Warning Score (EWS) that represents the current state of the patient.
+For simulation purposes, the data used for the example are randomic numbers.
+
+Robot Movement:
+Complementary with the diagnostic software, there is additionally some Arduino code for Robots movement
